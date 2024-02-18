@@ -3,6 +3,7 @@
 </div>
 
 # Hey there, I am Gaurab 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GaurabGogo.GaurabGogo&"  />
 
 ###
 
@@ -18,9 +19,6 @@
   <a href="https://twitter.com/GaurabGogo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-
-
-
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GaurabGogo.GaurabGogo&"  />
 </div>
 

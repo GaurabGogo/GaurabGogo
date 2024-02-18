@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
+  <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/gojo.gif"  />
 </div>
 
 # Hey there, I am Gaurab 👋

@@ -2,7 +2,7 @@
   <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
 </div>
 <p>
-<h1 style="color:blue;">Hey there, I am Gaurab 👋</h1>
+<p style="color:blue;">Hey there, I am Gaurab 👋</p>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </p>
 ###

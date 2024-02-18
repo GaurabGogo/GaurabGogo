@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/view/anime-boy-sad-unhappy-glitch-gif-17711393"  />
+  <img height="150" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
 </div>
 
 ###
@@ -18,7 +18,6 @@
   </a>
  
 </div>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurabgogo) #
 
 
 ###

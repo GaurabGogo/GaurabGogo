@@ -87,7 +87,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### Just For Fun
+### 😂 Just For Fun
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 

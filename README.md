@@ -2,6 +2,8 @@
   <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
 </div>
 
+<h1 align="center">Hi, I am Gaurab👋</h1>
+
 ###
 
 <div align="center">
@@ -26,11 +28,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GaurabGogo.GaurabGogo&"  />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=GaurabGogo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
-<h1 align="center">Hi, I am Gaurab👋</h1>
 
 ###
 

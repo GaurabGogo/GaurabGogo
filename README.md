@@ -2,7 +2,7 @@
   <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
 </div>
 
-<h1 align="center">Hi, I am Gaurab👋</h1>
+<h1>Hey there, I am Gaurab 👋</h1>
 
 ###
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
+  <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/anime-boy.gif"  />
 </div>
 
 ###

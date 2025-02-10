@@ -2,7 +2,6 @@
   <img  width="100%" src="https://github.com/GaurabGogo/GaurabGogo/blob/main/gojo-ezgif.com-crop.gif"  />
 </div>
 
-
 # Hey there, I am Gaurab 👋
 
 ###
@@ -22,14 +21,13 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GaurabGogo.GaurabGogo&"  />
 </div>
 
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">🖥 Front-End Developer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜<br>    💼 On my way to becoming Full-Stack Developer<br>    🎓 𝚂tudied Computer Science in JNTUA, AP, India, graduated in 2023<br>    🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋<br> 🧑‍💼 Know me better <a href="https://github.com/GaurabGogo/GaurabGogo/blob/main/Gaurab%20Chaudhary%20Resume.pdf">[Resume/CV]</a><br/> 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 
+<p align="left">🖥 Front-End Developer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜<br>    💼 On my way to becoming Full-Stack Developer<br>    🎓 𝚂tudied Computer Science in JNTUA, AP, India, graduated in 2023<br>    🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋<br> 🧑‍💼 Know me better <a href="https://github.com/GaurabGogo/GaurabGogo/blob/main/Resume%20Gaurab%20Chaudhary.pdf">[Resume/CV]</a><br/> 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 
 </p>
 
 ###
@@ -77,13 +75,14 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
+
 ![](https://github-readme-stats.vercel.app/api?username=GaurabGogo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GaurabGogo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabGogo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+###
 
-### 
 <h3 align="left">😂 Just For Fun</h3>
 
 ###

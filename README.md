@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🖥 Front-End Developer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜<br>    💼 On my way to becoming Full-Stack Developer<br>    🎓 𝚂tudied Computer Science in JNTUA, AP, India, graduated in 2023<br>    🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋<br> 🧑‍💼 Know me better <a href="https://github.com/GaurabGogo/GaurabGogo/blob/main/Resume%20Gaurab%20Chaudhary.pdf">[Resume/CV]</a><br/> 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 
+<p align="left">🖥 Front-End Developer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜<br>    💼 On my way to becoming Full-Stack Developer<br>    🎓 𝚂tudied Computer Science in JNTUA, AP, India, graduated in 2023<br>    🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋<br> 🧑‍💼 Know me better <a href="https://drive.google.com/file/d/1qwUy3xqGl2pU1S6hqLFum4521E4V8OEf/view?usp=sharing">[Resume/CV]</a><br/> 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 
 </p>
 
 ###
